@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UnWeChat 1.0</string>
+    <string name="txt_home">微信</string>
+
+    <string name="txt_service">通讯录</string>
+
+    <string name="txt_discover">发现</string>
+
+    <string name="txt_my">我</string>
+</resources>
